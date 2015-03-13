@@ -1,0 +1,12 @@
+{
+  "name": "gateway-icons",
+  "title": "AnyPresence Gateway Icons",
+  "dependencies": {
+    "grunt": "",
+    "grunt-cli": "",
+    "grunt-contrib-clean": "",
+    "grunt-svgmin": "1.0.0",
+    "grunt-webfont": "0.4.8",
+    "dotenv": ""
+  }
+}

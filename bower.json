@@ -1,0 +1,19 @@
+{
+  "name": "gateway-icons",
+  "version": "0.0.0",
+  "authors": [
+    "rmorey@anypresence.com"
+  ],
+  "main": [
+    "dist/_gateway-icon.scss",
+    "dist/gateway-icon.eot",
+    "dist/gateway-icon.svg"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

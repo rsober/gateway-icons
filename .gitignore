@@ -1,0 +1,10 @@
+.env
+.DS_Store
+.sass-cache
+.rvmrc
+.bundle
+*.sassc
+Gemfile.lock
+node_modules
+tmp
+dist
