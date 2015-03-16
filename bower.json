@@ -6,8 +6,8 @@
   ],
   "main": [
     "dist/_gateway-icon.scss",
-    "dist/gateway-icon.eot",
-    "dist/gateway-icon.svg"
+    "dist/fonts/gateway-icon.eot",
+    "dist/fonts/gateway-icon.svg"
   ],
   "ignore": [
     "**/.*",
