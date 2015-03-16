@@ -6,7 +6,6 @@
     "grunt-cli": "",
     "grunt-contrib-clean": "",
     "grunt-svgmin": "1.0.0",
-    "grunt-webfont": "0.4.8",
-    "dotenv": ""
+    "grunt-webfont": "0.4.8"
   }
 }

@@ -1,9 +1,4 @@
-dotenv = require('dotenv')
-
 module.exports = (grunt) ->
-  # load environment
-  dotenv.load()
-  
   # load package JSON
   pkg = grunt.file.readJSON 'package.json'
   
@@ -40,7 +35,8 @@ module.exports = (grunt) ->
             classPrefix: 'gateway-'
             mixinPrefix: 'gateway-'
         src: ['tmp/icons/*.svg']
-        dest: 'dist/'
+        dest: 'dist/fonts'
+        destCss: 'dist/'
   
   # load required grunt tasks
   grunt.loadNpmTasks 'grunt-contrib-clean'
