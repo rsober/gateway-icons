@@ -24,7 +24,7 @@ module.exports = (grunt) ->
     webfont:
       iconfont:
         options:
-          engine: 'node'
+          engine: 'fontforge'
           embed: 'ttf,woff'
           syntax: 'bootstrap'
           stylesheet: 'scss'
