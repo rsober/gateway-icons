@@ -1,0 +1,11 @@
+build:
+  build: .
+  volumes:
+    - ./assets:/src/assets
+    - ./dist:/src/dist
+    - ./bower.json:/src/bower.json
+    - ./package.json:/src/package.json
+    - ./Gruntfile.coffee:/src/Gruntfile.coffee
+    - ./README.md:/src/README.md
+  entrypoint: ['/bin/sh']
+  command: '-c "npm install && grunt build"'
