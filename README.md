@@ -1,3 +1,3 @@
-# AnyPresence Gateway Icons
+# Nanoscale Gateway Icons
 
-Bower-compatible SVG and webfont AnyPresence Gateway icons repository.
+Bower-compatible SVG and webfont Nanoscale Gateway icons repository.
