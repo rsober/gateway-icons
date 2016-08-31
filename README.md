@@ -1,3 +1,3 @@
-# Nanoscale Gateway Icons
+# Gateway Icons
 
-Bower-compatible SVG and webfont Nanoscale Gateway icons repository.
+Bower-compatible SVG and webfont Gateway icons repository.

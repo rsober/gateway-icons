@@ -1,6 +1,6 @@
 {
   "name": "gateway-icons",
-  "title": "Nanoscale Gateway Icons",
+  "title": "Gateway Icons",
   "dependencies": {
     "grunt": "0.4.5",
     "grunt-cli": "0.1.13",
