@@ -1,9 +1,6 @@
 {
   "name": "gateway-icons",
   "version": "0.0.1",
-  "authors": [
-    "rmorey@anypresence.com"
-  ],
   "main": [
     "dist/_gateway-icon.scss",
     "dist/fonts/gateway-icon.eot",
